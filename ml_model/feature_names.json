@@ -1,0 +1,22 @@
+[
+  "length_url",
+  "length_hostname",
+  "nb_www",
+  "ratio_digits_url",
+  "length_words_raw",
+  "longest_word_path",
+  "avg_word_path",
+  "phish_hints",
+  "nb_hyperlinks",
+  "ratio_intHyperlinks",
+  "ratio_extHyperlinks",
+  "safe_anchor",
+  "domain_registration_length",
+  "domain_age",
+  "web_traffic",
+  "google_index",
+  "page_rank",
+  "https",
+  "ssl_valid",
+  "redirect_count"
+]

@@ -1,0 +1,96 @@
+{
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "false_positive_rate": 0.0,
+  "roc_auc": 1.0,
+  "confusion_matrix": {
+    "tn": 1200,
+    "fp": 0,
+    "fn": 0,
+    "tp": 1200
+  },
+  "feature_importances": [
+    {
+      "feature": "ratio_intHyperlinks",
+      "importance": 0.2074
+    },
+    {
+      "feature": "ratio_extHyperlinks",
+      "importance": 0.2005
+    },
+    {
+      "feature": "domain_age",
+      "importance": 0.1775
+    },
+    {
+      "feature": "phish_hints",
+      "importance": 0.1193
+    },
+    {
+      "feature": "domain_registration_length",
+      "importance": 0.0893
+    },
+    {
+      "feature": "page_rank",
+      "importance": 0.0536
+    },
+    {
+      "feature": "ratio_digits_url",
+      "importance": 0.0444
+    },
+    {
+      "feature": "google_index",
+      "importance": 0.0303
+    },
+    {
+      "feature": "web_traffic",
+      "importance": 0.0195
+    },
+    {
+      "feature": "redirect_count",
+      "importance": 0.0194
+    },
+    {
+      "feature": "nb_hyperlinks",
+      "importance": 0.0117
+    },
+    {
+      "feature": "length_url",
+      "importance": 0.0102
+    },
+    {
+      "feature": "https",
+      "importance": 0.0065
+    },
+    {
+      "feature": "length_hostname",
+      "importance": 0.0053
+    },
+    {
+      "feature": "ssl_valid",
+      "importance": 0.004
+    },
+    {
+      "feature": "length_words_raw",
+      "importance": 0.0013
+    },
+    {
+      "feature": "nb_www",
+      "importance": 0.0
+    },
+    {
+      "feature": "longest_word_path",
+      "importance": 0.0
+    },
+    {
+      "feature": "avg_word_path",
+      "importance": 0.0
+    },
+    {
+      "feature": "safe_anchor",
+      "importance": 0.0
+    }
+  ]
+}
